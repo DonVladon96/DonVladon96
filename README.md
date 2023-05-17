@@ -1,6 +1,5 @@
 ### Hi there, I`m Vlad Petrov, and I'm
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Front-End+Developer+Enginner)](https://git.io/typing-svg)
-
 #### I`m useing a Technology Stack for Web Application Development: 
 ![React](https://img.shields.io/badge/-React-141130?style=for-the-badge&logo=React)
 ![NEXT.JS](https://img.shields.io/badge/-NEXTJS-141130?style=for-the-badge&logo=nextdotjs&logoColor=FF0000)
@@ -16,3 +15,6 @@
 #### Контакты:
 [![Telegram](https://img.shields.io/badge/-Telegram-141130?style=for-the-badge&logo=Telegram)](https://t.me/WhatIsLovekin)
 [![Gmail](https://img.shields.io/badge/-Yurovdigital@gmail.com-141130?style=for-the-badge&logo=Gmail)](mailto:donvladon996@gmail.com)
+<a href="https://instagram.com/don_vladon_">
+<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram badge" />
+</a>&nbsp;&nbsp;
