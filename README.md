@@ -1,2 +1,18 @@
-### Hi there, I`m Vlad Petrov, and I
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Front-End+Software+Enginner)](https://git.io/typing-svg)
+### Hi there, I`m Vlad Petrov, and I'm
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Front-End+Developer+Enginner)](https://git.io/typing-svg)
+
+#### I`m useing a Technology Stack for Web Application Development: 
+![React](https://img.shields.io/badge/-React-141130?style=for-the-badge&logo=React)
+![NEXT.JS](https://img.shields.io/badge/-NEXTJS-141130?style=for-the-badge&logo=nextdotjs&logoColor=FF0000)
+![JavaScript](https://img.shields.io/badge/-JavaScript-141130?style=for-the-badge&logo=JavaScript&logoColor=yellow)
+![HTML5](https://img.shields.io/badge/-HTML5-141130?style=for-the-badge&logo=HTML5&logoColor=FF0000)
+![CSS3](https://img.shields.io/badge/-CSS3-141130?style=for-the-badge&logo=CSS3&logoColor=009900)  
+![Node.js](https://img.shields.io/badge/-Node.js-141130?style=for-the-badge&logo=Node.js)
+![Express](https://img.shields.io/badge/-Express-141130?style=for-the-badge&logo=Express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-141130?style=for-the-badge&logo=MongoDB)
+![API](https://img.shields.io/badge/-API-141130?style=for-the-badge)
+
+---
+#### Контакты:
+[![Telegram](https://img.shields.io/badge/-Telegram-141130?style=for-the-badge&logo=Telegram)](https://t.me/WhatIsLovekin)
+[![Gmail](https://img.shields.io/badge/-Yurovdigital@gmail.com-141130?style=for-the-badge&logo=Gmail)](mailto:donvladon996@gmail.com)
