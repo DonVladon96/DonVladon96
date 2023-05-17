@@ -1,3 +1,19 @@
 ### Hi there 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+developer)](https://git.io/typing-svg)
+
+<p align='center'>
+  <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+</p>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/teuchezh/count.svg" />
+</p>
+<p align="center">
+<a href="https://now-playing-66mfrri4j-teuchezh.vercel.app/now-playing?open">
+    <img src="https://now-playing-66mfrri4j-teuchezh.vercel.app/now-playing" width="512" height="128">
+</a>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=teuchezh&count_private=true&show_icons=true&theme=buefy" />
+</p>
