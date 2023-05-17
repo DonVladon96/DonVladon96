@@ -13,7 +13,7 @@
 
 ---
 #### Контакты:
-[![Telegram](https://avatars.mds.yandex.net/get-entity_search/5488405/551762834/S122x122Fit_2x)](https://t.me/WhatIsLovekin)
+[![Telegram](https://img.shields.io/badge/https://avatars.mds.yandex.net/get-entity_search/5488405/551762834/S122x122Fit_2x)](https://t.me/WhatIsLovekin)
 [![Gmail](https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png)](mailto:donvladon996@gmail.com)
 <a href="https://instagram.com/don_vladon_">
 <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram badge" />
