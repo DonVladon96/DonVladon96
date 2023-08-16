@@ -1,6 +1,9 @@
 ### Hi there, I`m Vlad Petrov, and I'm
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Front-End+Developer+Enginner)](https://git.io/typing-svg)
-#### I`m useing a Technology Stack for Web Application Development: 
+
+### I love clean code.
+
+#### I`m useing a Technologies Stack for Web Application Development: 
 ![React](https://img.shields.io/badge/-React-141130?style=for-the-badge&logo=React)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-141130?style=for-the-badge&logo=JavaScript&logoColor=yellow)
 ![HTML5](https://img.shields.io/badge/-HTML5-141130?style=for-the-badge&logo=HTML5&logoColor=FF0000)
@@ -11,7 +14,7 @@
 ![API](https://img.shields.io/badge/-API-141130?style=for-the-badge)
 
 ---
-#### Контакты:
+#### My contacts:
 <p align='center'>
 
 [//]: # ([![Telegram]&#40;https://img.shields.io/badge/-Telegram-141130?style=for-the-badge&logo=Telegram&#41;]&#40;https://t.me/WhatIsLovekin&#41;)
