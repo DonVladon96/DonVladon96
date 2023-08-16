@@ -29,11 +29,11 @@
 
 <a href="https://t.me/WhatIsLovekin">
 <img src="https://img.shields.io/badge/-Telegram-141130?style=for-the-badge&logo=Telegram" alt="Twitter badge" />
-</a>&nbsp;&nbsp;
+</a>
 <a href="https://donvladon996@gmail.com">
 <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png" alt="LinkedIn badge" />
-</a>&nbsp;&nbsp;
+</a>
 <a href="https://instagram.com/don_vladon_">
 <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram badge" />
-</a>&nbsp;&nbsp;
+</a>
 </p>
