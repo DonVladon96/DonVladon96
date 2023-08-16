@@ -3,7 +3,7 @@
 
 ### I love clean code.
 
-#### I`m useing a Technologies Stack for Web Application Development: 
+#### Technologies: 
 ![React](https://img.shields.io/badge/-React-141130?style=for-the-badge&logo=React)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-141130?style=for-the-badge&logo=JavaScript&logoColor=yellow)
 ![HTML5](https://img.shields.io/badge/-HTML5-141130?style=for-the-badge&logo=HTML5&logoColor=FF0000)
@@ -27,13 +27,13 @@
 
 [//]: # (</a>&nbsp;&nbsp;)
 
-  <a href="https://t.me/WhatIsLovekin">
-     <img src="https://img.shields.io/badge/-Telegram-141130?style=for-the-badge&logo=Telegram" alt="Twitter badge" />
-  </a>&nbsp;&nbsp;
-  <a href="https://donvladon996@gmail.com">
-     <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png" alt="LinkedIn badge" />
-  </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/don_vladon_">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram badge" />
-  </a>&nbsp;&nbsp;
+<a href="https://t.me/WhatIsLovekin">
+<img src="https://img.shields.io/badge/-Telegram-141130?style=for-the-badge&logo=Telegram" alt="Twitter badge" />
+</a>&nbsp;&nbsp;
+<a href="https://donvladon996@gmail.com">
+<img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png" alt="LinkedIn badge" />
+</a>&nbsp;&nbsp;
+<a href="https://instagram.com/don_vladon_">
+<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram badge" />
+</a>&nbsp;&nbsp;
 </p>
